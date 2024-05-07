@@ -1,7 +1,9 @@
 # LiDar Viewer
 
 LiDar Viewer는 Beagle 로봇을 키보드로 직접 제어하고 LiDar 차트를 실시간으로 볼 수 있는 체험형 데모 프로그램입니다.
-<br>
+
+![비글배경](https://github.com/RobomationLAB/BeagleAPI_KR/assets/160319639/c43bef77-3f7d-4ea6-b028-5d082e06cfc6)
+
 아래 버튼을 눌러 실행 프로그램을 다운로드 받아 LiDar 센서를 직접 체험해보세요.
 
 <br>
