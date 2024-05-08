@@ -71,7 +71,7 @@ Beagle로봇을 EXPRESS RECEIVER에 가까이 가져가 Beagle의 **전원 버�
 <br>
 Beagle에서 **삑** 소리가 나고 **Beagle의 통신 상태 표시등**과 **EXPRESS RECEIVER의 연결상태 표시등**이 계속 켜져있거나 빠르게 깜빡이면 정상입니다.
 
-<img src="https://github.com/RobomationLAB/BeagleAPI_KR/assets/160319639/e84a9d47-694b-4783-b31d-a0aac9965f12" width=450>
+<img src="https://github.com/RobomationLAB/BeagleAPI_KR/assets/160319639/d013081b-4ba2-492f-a9ba-0a2ff76b02b6" width=350>
 
 
 ---
