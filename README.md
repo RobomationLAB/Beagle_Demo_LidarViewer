@@ -1,4 +1,4 @@
-# LiDarViewer
+# LiDar Viewer
 
 LiDar Viewer는 Beagle 로봇을 키보드로 직접 제어하고 LiDar 차트를 실시간으로 볼 수 있는 체험형 데모 프로그램입니다.
 
@@ -16,7 +16,8 @@ LiDar Viewer는 Beagle 로봇을 키보드로 직접 제어하고 LiDar 차트�
 
 <summary>설치방법</summary>
 
-위 링크로 들어가, 다음과 같이 **로그인하지 않은 상태**로 다운로드를 진행할 수 있습니다.<br>
+위 `LiDarViewer 설치하기`링크로 들어가, 다음과 같이 **로그인하지 않은 상태**로 다운로드를 진행할 수 있습니다.<br>
+
 [ 다운로드 ] → [ 또는 다운로드만 하고 계속 진행하세요. ] 순으로 클릭합니다.
 
 <img src='https://github.com/RobomationLAB/BeagleAPI_KR/assets/160319639/58e657db-f509-4161-b87c-52a5169434c0' width=600>
@@ -48,7 +49,7 @@ LiDar Viewer는 Beagle 로봇을 키보드로 직접 제어하고 LiDar 차트�
 
 *※해당 프로그램은 로보메이션의 제품을 활용해 대학생들이 개발하여 체험용으로 배포한 프로그램입니다.
 <br>
-따라서 <u>본 프로그램의 사용법이나 오류에 대한 문의는 받고 있지 않습니다.</u>*
+따라서 <ins>본 프로그램의 사용법이나 오류에 대한 문의는 받고 있지 않습니다.</ins>*
 
 ---
 
@@ -59,6 +60,7 @@ LiDar Viewer는 Beagle 로봇을 키보드로 직접 제어하고 LiDar 차트�
 
 Beagle의 전원이 꺼져 있는 상태에서 **EXPRESS RECEIVER**를 PC의 USB단자에 꽂습니다.
 <br>
+
 **EXPRESS RECEIVER**의 연결 상태 표시등이 초록색으로 깜빡이면 연결 대기중인 상태로 정상입니다.
 
 
@@ -69,6 +71,7 @@ Beagle의 전원이 꺼져 있는 상태에서 **EXPRESS RECEIVER**를 PC의 USB
 
 Beagle로봇을 EXPRESS RECEIVER에 가까이 가져가 Beagle의 **전원 버튼**을 눌러 전원을 켭니다.
 <br>
+
 Beagle에서 **삑** 소리가 나고 **Beagle의 통신 상태 표시등**과 **EXPRESS RECEIVER의 연결상태 표시등**이 계속 켜져있거나 빠르게 깜빡이면 정상입니다.
 
 <img src="https://github.com/RobomationLAB/BeagleAPI_KR/assets/160319639/d013081b-4ba2-492f-a9ba-0a2ff76b02b6" width=350>
@@ -127,7 +130,7 @@ Beagle에서 **삑** 소리가 나고 **Beagle의 통신 상태 표시등**과 *
 | 모드 | 설명 |
 | --- | --- |
 | Auto Scaling | [ 자동모드 ] LiDAR 센서가 수집한 데이터 중에서 가장 먼 거리의 정보를 기준으로 뷰어의 스케일을 자동으로 조정하여 시각적으로 나타내는 모드입니다. (뷰어의 수동조작 불가)|
-| Mouse WheelScroll | [ 수동모드 ] 좌클릭 상태로 마우스를 움직여 화면상 Beagle의 위치를 자유롭게 이동시킬 수 있습니다. 휠 스크롤을 사용하여 화면 비율을 확대 또는 축소할 수 있습니다. |
+| Mouse Wheel Scroll | [ 수동모드 ] 좌클릭 상태로 마우스를 움직여 화면상 Beagle의 위치를 자유롭게 이동시킬 수 있습니다. 휠 스크롤을 사용하여 화면 비율을 확대 또는 축소할 수 있습니다. |
 
 
 
@@ -137,7 +140,7 @@ Beagle에서 **삑** 소리가 나고 **Beagle의 통신 상태 표시등**과 *
 
 # 방향키 주행
 
-- 연결이 완료된 상태에서, 하단 **PLAY** 버튼을 누르면 다음과 같이 LiDar센서가 활성화되고, 키보드로 Beagle을 제어할 수 있는 상태가 됩니다.
+- 연결이 완료된 상태에서, 하단 **PLAY** 버튼을 누르면 다음과 같이 LiDar센서가 활성화되고, LiDar 뷰어 모드는 Auto Scaling으로 기본 설정 됩니다. 키보드로 Beagle의 움직임을 제어할 수 있습니다.
 
 
     <img src="https://github.com/RobomationLAB/BeagleAPI_KR/assets/160319639/53e3c9e0-d8eb-4b2b-bfe5-648668a4c7f6" width=800>
@@ -158,7 +161,7 @@ Beagle에서 **삑** 소리가 나고 **Beagle의 통신 상태 표시등**과 *
 
 <br><br>
 
-- **STOP** 버튼을 누르면 키보드와 LiDar센서가 비활성화 됩니다.
+- **STOP** 버튼을 누르면 Beagle의 움직임과 LiDar센서가 비활성화 됩니다.
 
     <img src="https://github.com/RobomationLAB/BeagleAPI_KR/assets/160319639/a53b5c37-01e5-41d6-887c-7348962dc666" width=800>
 
