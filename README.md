@@ -8,33 +8,10 @@ LiDar Viewer는 Beagle 로봇을 키보드로 직접 제어하고 LiDar 차트�
 
 <br>
 
-[LiDarViewer 설치하기](https://www.dropbox.com/scl/fo/cewii3qooqgvk1m7d503d/AAUPjnIgEuXjM0lyzdtEncg?rlkey=9kfnnz0lo7ign8yrgrtekgq9o&e=1&st=adw4n2dk&dl=0)
+[LiDarViewer 다운로드](https://downloads.robomation.net/LIDARVIEWER.zip)
 
 *( ※ LIDARVIEWER.exe는* **windows** *전용 프로그램입니다. )*
 
-<details>
-
-<summary>설치방법</summary>
-
-위 `LiDarViewer 설치하기`링크로 들어가, 다음과 같이 **로그인하지 않은 상태**로 다운로드를 진행할 수 있습니다.<br>
-
-[ 다운로드 ] → [ 또는 다운로드만 하고 계속 진행하세요. ] 순으로 클릭합니다.
-
-<img src='https://github.com/RobomationLAB/BeagleAPI_KR/assets/160319639/58e657db-f509-4161-b87c-52a5169434c0' width=600>
-
-<br><br>
-
-브라우저 우측 상단에 다운로드 버튼을 눌러 설치된 zip파일을 선택하고, 설치된 zip파일을 원하는 위치에 압축을 해제합니다.
-
-<img src='https://github.com/RobomationLAB/BeagleAPI_KR/assets/160319639/61b292b4-6a9a-46a9-bea9-3114823ff21f' width=600>
-
-
----
-
-</details>
-
-
-<br><br>
 
 ---
 
@@ -44,8 +21,6 @@ LiDar Viewer는 Beagle 로봇을 키보드로 직접 제어하고 LiDar 차트�
 <img src="https://github.com/RobomationLAB/BeagleAPI_KR/assets/160319639/23019638-98c0-44eb-922e-2d1eb365165e" alt="대체 텍스트" width=500>
 
 ---
-
-
 
 *※해당 프로그램은 로보메이션의 제품을 활용해 대학생들이 개발하여 체험용으로 배포한 프로그램입니다.
 <br>
